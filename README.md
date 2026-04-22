@@ -1,5 +1,3 @@
-![404 NotFound](img/NotFound.png)
-
 # Hi 👋, 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Oaaee/Oaaee/output/github-contribution-grid-snake-dark.svg">
